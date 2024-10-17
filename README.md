@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate here!
 - 📫 You can reach me by my e-mail in the headline
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I own a pet bunny named "My baby" in my native language =)
+- ⚡ Fun fact: I own a pet bunny =)
 <!---
 mcspyder/mcspyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
