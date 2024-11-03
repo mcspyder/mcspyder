@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science at univeristy
 - 💞️ I’m looking to collaborate here!
 - 📫 You can reach me by my e-mail in the headline
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I own a pet bunny =)
 <!---
 mcspyder/mcspyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
