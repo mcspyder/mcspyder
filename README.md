@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate here!
 - 📫 You can reach me by my e-mail in the headline
 - ⚡ Fun fact: I own a pet bunny =)
-- ![bunny](https://github.com/user-attachments/assets/d9a3ed8a-437d-4724-bee5-2ced78f2e4dc)
 
 <!---
 mcspyder/mcspyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
